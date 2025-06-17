@@ -1,2 +1,6 @@
-#Ingredients
+# Ingredients
+- peas
+- onions 
+- potatoes
+
 # Instructions 
