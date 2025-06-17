@@ -4,3 +4,5 @@
 - potatoes   £3.50
 
 # Instructions 
+- put peas into a pan
+- add boiling water
